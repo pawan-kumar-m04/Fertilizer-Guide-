@@ -1,2 +1,2 @@
 # Fertilizer-Guide-
-Fertilizer Recommendation App is a web-based tool that analyzes soil pH and NPK values to provide crop-specific fertilizer suggestions. Built with HTML, CSS, and JavaScript, it helps improve soil fertility and supports sustainable farming with simple, data-driven recommendations.
+Fertilizer Recommendation App – Developed for SIH 2024, this web app analyzes soil pH and NPK levels along with crop and climate data to recommend suitable fertilizers. Built using HTML, CSS, and JavaScript, it aims to support farmers with sustainable, data-driven soil health management.
